@@ -7,7 +7,7 @@
 3. 目前支持如下平台：  
         - Mac  
         - Linux (测试环境：Ubuntu)
-        // Windows目前未做适配
+        - Windows
 ```
 
 > 特殊说明
