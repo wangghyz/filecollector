@@ -2,14 +2,14 @@
 package cmdline
 
 import (
+	"filecollector/service"
+	"filecollector/tool"
 	"flag"
 	"fmt"
 	"log"
 	"os"
 	"os/exec"
-	"service"
 	"strconv"
-	"tool"
 )
 
 var (

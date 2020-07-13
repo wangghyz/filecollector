@@ -1,8 +1,6 @@
 package main
 
-import (
-	"cmdline"
-)
+import "filecollector/cmdline"
 
 // init 程序初始化
 func init() {

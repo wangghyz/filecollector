@@ -2,14 +2,14 @@ package service
 
 import (
 	"errors"
+	"filecollector/platform"
+	"filecollector/tool"
 	"fmt"
 	"log"
 	"os"
 	"path/filepath"
-	"platform"
 	"sync"
 	"time"
-	"tool"
 )
 
 // Collect 按时间整理文件
